@@ -1,0 +1,20 @@
+Student number: 217028392
+Surname, Initials: SEGALE, MS
+
+Available Game Categories:
+	1. Role-Playing
+	2. Strategy
+
+Available Game Subcategories:
+	1. Adventure
+	2. Puzzle
+
+Available Game Genres:
+	1. Jungle
+	2. Medical
+	3. Space
+	4. Western
+
+Available Design Patterns:
+	1. Object Pool
+	2. Observer
